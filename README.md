@@ -35,6 +35,7 @@ Fattori associati alla resa, a parità delle altre condizioni:
 ## Limiti
 - Il modello non conosce il meteo dopo aprile, come il caldo di maggio durante il riempimento della granella, che spiega parte dell'errore.
 - I coefficienti indicano associazioni, non effetti causali: per valutare l'effetto reale dell'azoto o della varietà servono prove in campo.
+- Il modello tende a sovrastimare le rese più basse e a sottostimare quelle più alte: le previsioni per i campi con rese estreme vanno lette con più cautela.
 
 ## Strumenti
 Python · pandas · scikit-learn · matplotlib
